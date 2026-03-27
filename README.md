@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on:<br>Scalable, user-friendly applications and grow as a professional developer.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Advanced AWS Services.<br><br>💬 Ask me about:<br>Java, JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+🔭 I’m currently working on:<br>Scalable, user-friendly applications and grow as a professional developer.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Advanced AWS Services.<br><br>💬 Ask me about:<br>Java, JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
 
 
 ## 🌐 Socials:
